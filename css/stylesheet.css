@@ -1,28 +1,12 @@
 <!DOCTYPE css>
 
-	/* billhanscom.com */
-/*
-@font-face
-{
-font-family: GT-Walsheim-Regular;
-src: url(fonts/GT-Walsheim-Regular.woff);
-font-weight: normal;
-font-style: normal;
-}
-
-@font-face {
-font-family: GT-Walsheim-Regular-Oblique;
-src: url(fonts/GT-Walsheim-Regular-Oblique.woff);
-font-weight: normal;
-font-style: italic;
-}
-*/
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i');
 
 html, body{
 	padding: 0px;
 	margin: 0px;
 	font-size: 15px;
-	font-family: GT-Walsheim-Regular;
+	font-family: Source-Sans-Pro;
 	background-color: #ffffff;
 	box-sizing: border-box;
 	-webkit-box-sizing: border-box;
